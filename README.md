@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1.Martin Klokocik
-2.Adam Zeman
-3.Adelina Ivantaeva 
-4.Bohdan Pasichnyk
+2.
+3.
+4.
