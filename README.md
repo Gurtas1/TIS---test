@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1.Martin Klokocik
 2.Adam Zeman
-3.
+3.Adelina Ivantaeva
 4.Bohdan Pasichnyk
