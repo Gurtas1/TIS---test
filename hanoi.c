@@ -15,7 +15,7 @@ void hanoi(int n, int a, int b)
 int main()
 {
   int n = 4;
-    printf("From Kihachu ");
+    printf("From Kihachu 2");
   hanoi(n, 1, 2);
   return 0;
 }
